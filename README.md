@@ -1,1 +1,1 @@
-# devops-capstone-architecture
+# Devops Capstone, Team:
